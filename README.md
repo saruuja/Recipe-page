@@ -14,8 +14,8 @@ Recipe page  is challange  that displays a recipe with ingredients, instructions
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/saruuja/Recipe-page)
+- Live Site URL:(https://saruuja.github.io/Recipe-page/)
 
 ## My process
 ### Built with
